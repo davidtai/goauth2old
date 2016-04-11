@@ -50,7 +50,7 @@ import (
 	"strings"
 	"time"
 
-	"code.google.com/p/goauth2/oauth"
+	"github.com/davidtai/goauth2old/oauth"
 )
 
 // These are the default/standard values for this to work for Google service accounts.
